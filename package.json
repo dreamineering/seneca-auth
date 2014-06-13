@@ -32,6 +32,7 @@
     "passport-linkedin": "~0.1.3",
     "passport-google-oauth": "~0.1.5",
     "passport-facebook": "~1.0.3",
+    "passport-http-bearer": "~1.0.1",
     "async": "~0.7.0",
     "dispatch": "~0.2.0",
     "cookies": "~0.4.0"
