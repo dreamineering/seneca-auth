@@ -22,9 +22,9 @@
     "lib"
   ],
   "dependencies": {
+    "connect": "2.12.x",
     "underscore": "~1.6.0",
-    "gex": "~0.1.3",
-    "string": "~1.8.0",
+    "async": "~0.7.0",
     "passport-local": "~1.0.0",
     "passport": "~0.2.0",
     "passport-github": "~0.1.5",
@@ -33,7 +33,8 @@
     "passport-google-oauth": "~0.1.5",
     "passport-facebook": "~1.0.3",
     "passport-http-bearer": "~1.0.1",
-    "async": "~0.7.0",
+    "gex": "~0.1.3",
+    "string": "~1.8.0",
     "dispatch": "~0.2.0",
     "cookies": "~0.4.0"
   },
